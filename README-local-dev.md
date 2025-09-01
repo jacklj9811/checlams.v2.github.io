@@ -47,6 +47,10 @@ NAME                          STATUS          PORTS
 checlamsv2githubio-jekyll-1   Up              0.0.0.0:8080->8080/tcp
 ```
 
+## 第一次运行后再次运行
+
+运行前先打开docker desktop,运行start-site.bat
+
 ---
 
 ## 🛠 常见问题
